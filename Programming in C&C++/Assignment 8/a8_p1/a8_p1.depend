@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635237906 source:c:\users\salma\onedrive\desktop\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1635238524 c:\users\salma\onedrive\desktop\queue.h
+
+1635238367 source:c:\users\salma\onedrive\desktop\testqueue.c
+	<stdio.h>
+	"queue.h"
+

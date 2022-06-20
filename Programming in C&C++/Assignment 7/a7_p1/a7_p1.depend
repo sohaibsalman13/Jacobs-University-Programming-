@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634631170 source:c:\users\salma\onedrive\desktop\a7_p1\linked_list.c
+	<stdio.h>
+	<stdlib.h>
+	"linked_list.h"
+
+1634631170 c:\users\salma\onedrive\desktop\a7_p1\linked_list.h
+	<stdio.h>
+	<stdlib.h>
+
