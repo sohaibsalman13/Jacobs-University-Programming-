@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1637610635 source:c:\users\salma\onedrive\desktop\a11_p6\vector.cpp
+	<iostream>
+	<cmath>
+	"Vector.h"
+
+1637610635 c:\users\salma\onedrive\desktop\a11_p6\vector.h
+
+1637611615 source:c:\users\salma\onedrive\desktop\c and c++\a11_p6\testvector.cpp
+	<iostream>
+	"Vector.h"
+
+1637611615 c:\users\salma\onedrive\desktop\c and c++\a11_p6\vector.h
+
+1637611613 source:c:\users\salma\onedrive\desktop\c and c++\a11_p6\vector.cpp
+	<iostream>
+	<cmath>
+	"Vector.h"
+

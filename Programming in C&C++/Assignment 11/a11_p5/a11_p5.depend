@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1637598002 source:c:\users\salma\onedrive\desktop\a11_p5\testshapes.cpp
+	<iostream>
+	"Shapes.h"
+
+1637597754 c:\users\salma\onedrive\desktop\a11_p5\shapes.h
+	<string>
+
+1637597810 source:c:\users\salma\onedrive\desktop\a11_p5\shapes.cpp
+	<iostream>
+	<cmath>
+	"Shapes.h"
+

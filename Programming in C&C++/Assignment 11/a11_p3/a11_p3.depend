@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637447659 source:c:\users\salma\onedrive\desktop\a11_p3\testcreature.cpp
+	<iostream>
+	"Creature.h"
+
+1637449065 c:\users\salma\onedrive\desktop\a11_p3\creature.h
+
