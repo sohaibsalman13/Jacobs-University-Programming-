@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1636926170 source:c:\users\salma\onedrive\desktop\a10_p3\city.cpp
+	<iostream>
+	"City.h"
+
+1636922588 c:\users\salma\onedrive\desktop\a10_p3\city.h
+	<string>
+
+1636922618 source:c:\users\salma\onedrive\desktop\a10_p3\testcity.cpp
+	<iostream>
+	<cstdlib>
+	"City.h"
+

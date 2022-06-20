@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1636939305 source:c:\users\salma\onedrive\desktop\a10_p4\testcritter.cpp
+	<iostream>
+	<cstdlib>
+	"Critter.h"
+
+1636939406 c:\users\salma\onedrive\desktop\a10_p4\critter.h
+	<string>
+
+1636939593 source:c:\users\salma\onedrive\desktop\a10_p4\critter.cpp
+	<iostream>
+	"Critter.h"
+
+1636939760 source:c:\users\salma\onedrive\desktop\c and c++\a10_p4\testcritter.cpp
+	<iostream>
+	<cstdlib>
+	"Critter.h"
+
+1636939406 c:\users\salma\onedrive\desktop\c and c++\a10_p4\critter.h
+	<string>
+

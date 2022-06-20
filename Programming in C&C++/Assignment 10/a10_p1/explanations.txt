@@ -1,0 +1,25 @@
+/*
+CH-230-A
+a10_p1.[c++]
+Sohaib Salman
+ssalman@jacobs-university.de
+*/
+
+
+
+a) If we remove the namespace std from the files we enocunter the error "string was not declared in this scope", 
+   "cout was not declared in this scope", "endl was not declared in this scope". By removing the namespace std, 
+   the commands assosiated with namespace std are not recognized by the program and it cannot execute the code.
+
+   The potential solution to this would be to add "std::" before each of these undeclared variables. 
+   Such as "std::cout", "std::endl" and "std::string".
+
+
+
+b) By removing the "Critter::" from the setName method gives the error "name was not declared in this scope" 
+   and by removing it from the "setHunger" method gives the error "hunger was not declared". 
+   It is clear that by removing "Critter::" from a method undeclares the private variable used 
+   in that method. As it is undeclared, it is not recognized and executed.
+
+   The potential solution would be to set the undeclared variable in the public part so that it does not 
+   need to be recognized with the "Critter::" prefix with a method.  

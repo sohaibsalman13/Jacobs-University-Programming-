@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1637007672 source:c:\users\salma\onedrive\desktop\a10_p8\testcomplex.cpp
+	<iostream>
+	<cstdlib>
+	"Complex.h"
+
+1637007672 c:\users\salma\onedrive\desktop\a10_p8\complex.h
+	<string>
+
+1637008024 source:c:\users\salma\onedrive\desktop\a10_p8\complex.cpp
+	<iostream>
+	"Complex.h"
+
