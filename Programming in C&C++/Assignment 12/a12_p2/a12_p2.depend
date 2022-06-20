@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638037225 source:c:\users\salma\onedrive\desktop\a12_p2\testtournamentmember.cpp
+	<iostream>
+	"TournamentMember.h"
+
+1638038730 c:\users\salma\onedrive\desktop\a12_p2\tournamentmember.h
+	<string>
+

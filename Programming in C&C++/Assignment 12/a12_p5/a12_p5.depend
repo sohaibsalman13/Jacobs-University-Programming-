@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1638174570 source:c:\users\salma\onedrive\desktop\a12_p5\testfraction.cpp
+	<iostream>
+	"fraction.h"
+
+1638174570 c:\users\salma\onedrive\desktop\a12_p5\fraction.h
+
+1638174734 source:c:\users\salma\onedrive\desktop\a12_p5\fraction.cpp
+	<iostream>
+	"fraction.h"
+
